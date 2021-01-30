@@ -8,7 +8,9 @@ this created just for educational purposes
 ```
 # how-to-install
 Clone the repository
-```git clone https://github.com/Cli3nt-ctrl/keylogger/```
+```
+git clone https://github.com/Cli3nt-ctrl/keylogger/
+```
 Change the directory
 ```
 cd keylogger
