@@ -1,4 +1,4 @@
-# keylogger
+# Keylogger
 Basic keylogger for Linux and Windows
 
 # Disclaimer
