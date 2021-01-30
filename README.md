@@ -3,8 +3,8 @@ Basic keylogger for Linux and Windows
 
 # Disclaimer
 ```
-Do not use this for black hat purposes
-this created just for educational purposes
+Do not use this program for black hat purposes
+The program created just for educational purposes
 ```
 # how-to-install
 Clone the repository
