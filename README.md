@@ -22,7 +22,8 @@ pip3 install requirements.txt
 
 # how-to-use
 open keylogger.py and enter the number of letters you wanna capture through victim
-```Enter the numbers here in the if loop :-- if len(a)==10 (default value is set as 10)
+```
+Enter the numbers here in the if loop :-- if len(a)==10 (default value is set as 10)
 ```
 Using the pyinstaller is optioanl. Pyinstaller creates your python file into executable format (.exe in  Windows and .elf in Linux) which also makes your python file unreadable
 ```
@@ -32,4 +33,4 @@ Your executable file will be in dist folder
 ```
 cd dist
 ```
-Send this file to your victim
+Send the executable file to your victim
