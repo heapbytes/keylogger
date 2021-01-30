@@ -6,7 +6,12 @@ Basic keylogger for Linux and Windows
 Do not use this program for black hat purposes
 The program created just for educational purposes
 ```
+# less-secure apps
+
+Enable less secure apps from here https://myaccount.google.com/lesssecureapps
+
 # how-to-install
+
 Clone the repository
 ```
 git clone https://github.com/Cli3nt-ctrl/keylogger/
