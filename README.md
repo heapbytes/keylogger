@@ -2,7 +2,9 @@
 Basic keylogger for Linux and Windows
 
 # Disclaimer
+```
 Do not use this for black hat purposes
+```
 this created just for educational purposes
 
 # how-to-install
