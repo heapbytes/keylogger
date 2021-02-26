@@ -3,6 +3,7 @@ Basic keylogger for Linux and Windows
 
 # Disclaimer
 ```
+This is a Beta Version
 Do not use this program for black hat purposes
 The program created just for educational purposes
 ```
